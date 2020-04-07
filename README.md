@@ -1,2 +1,2 @@
 # dulani.github.io
-Github.io site
+Content for the dulani.github.io site. 
